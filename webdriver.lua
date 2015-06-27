@@ -1,5 +1,6 @@
 -- Useless program used to test computer audio
 -- Made by lucian2004
+-- Pastebin File: http://pastebin.com/aw1caH3C (ID: aw1caH3C)
 
 local computer = require "computer"
 local term = require "term"
